@@ -1,0 +1,3 @@
+2025-04-08 10:19:12.182 +05:30 [ERR] Invoking exp mesg error
+System.Exception: Invoking exp mesg error
+   at NZWalks.API.Controllers.RegionsController.GetAllRegions() in C:\My Projects\SampleGithub\Udemy_NZWalks\NZwalks\NZWalks\NZWalks.API\Controllers\RegionsController.cs:line 40
